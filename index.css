@@ -778,3 +778,9 @@ i {
     white-space: nowrap;
     overflow: hidden;
 }
+.new_option_mobile{
+    position: absolute;
+    top: -9px;
+    padding-left: 10px;
+    color: orange;
+}
